@@ -6,8 +6,7 @@
 
 <p align="center">
   Estudante de <strong>Ciência da Computação</strong>, apaixonado por tecnologia e programação.  
-  No momento estou focado em <strong>Node.js</strong> e desenvolvimento back-end, mas também busco
-  melhorar minhas habilidades em <strong>desenvolvimento web, bancos de dados</strong> e boas práticas de código.  
+  No momento estou focado em <strong>Node.js</strong> e desenvolvimento back-end, mas também busco melhorar minhas habilidades em <strong>desenvolvimento web, banco de dados, linux</strong> e boas práticas de código.  
   Sempre em constante aprendizado e construindo projetos para evoluir como desenvolvedor 🚀
 </p>
 
