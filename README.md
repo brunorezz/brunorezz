@@ -2,6 +2,19 @@
 
 ###
 
+<h3 align="center">👨‍💻 Sobre mim</h3>
+
+<p align="center">
+  Estudante de <strong>Ciência da Computação</strong>, apaixonado por tecnologia e programação.  
+  No momento estou focado em <strong>Node.js</strong> e desenvolvimento back-end, mas também busco
+  melhorar minhas habilidades em <strong>desenvolvimento web, bancos de dados</strong> e boas práticas de código.  
+  Sempre em constante aprendizado e construindo projetos para evoluir como desenvolvedor 🚀
+</p>
+
+###
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
