@@ -2,12 +2,12 @@
 
 ###
 
-<h3 align="center">👨‍💻 Sobre mim</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong>, apaixonado por tecnologia e programação.  
-  No momento estou focado em <strong>Node.js</strong> e desenvolvimento back-end, mas também busco melhorar minhas habilidades em <strong>desenvolvimento web, banco de dados, linux</strong> e boas práticas de código.  
-  Sempre em constante aprendizado e construindo projetos para evoluir como desenvolvedor 🚀
+  Computer Science student, passionate about technology and programming.  
+  Currently focused on <strong>Node.js</strong> and back-end development, but also working to improve my skills in <strong>web development, databases, Linux</strong>, and clean coding practices.  
+  Always learning and building projects to grow as a developer 🚀
 </p>
 
 ###
